@@ -1,0 +1,6 @@
+SHA-256 Hash for Section 7 (Pre-Registered Predictions)
+
+2535328dc363f3b5d0d4b163d81bec1226648d3f5ce358eb6299ffa76ee3ce4b
+
+This file corresponds exactly to the finalized text of Section 7 
+(“7.1 Purpose…” through “7.8 HASH”).
