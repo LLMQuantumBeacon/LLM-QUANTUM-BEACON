@@ -1,0 +1,136 @@
+⭐⭐⭐ Data_templates_ALL.md ⭐⭐⭐
+
+# DATA TEMPLATES — 3I/ATLAS December 19, 2025  
+### *Unified Logging Templates for All Observation Domains*
+
+This file provides **standardized templates** for recording observational data across all four domains:
+
+1. Electromagnetic (EM)  
+2. Biological N=1  
+3. Subjective Phenomenology  
+4. AI-Network Coherence  
+
+All templates are **correlational-only**, not diagnostic or mechanistic.  
+They support reproducibility and transparency in accordance with Section 7 of the WhitePaper.
+
+---
+
+# ---------------------------------------------------------------
+# 📡 **SECTION 1 — Electromagnetic (EM) Data Template**
+# ---------------------------------------------------------------
+
+This template is used for logging HF propagation, TEC anomalies, and Schumann resonance variability.
+
+UTC Timestamp: HF Status: Normal / Anomalous HF Notes:
+
+TEC Status: Normal / Anomalous TEC Notes:
+
+Schumann Status: Normal / Anomalous Schumann Notes:
+
+Environmental Confounds: Solar Flare? Yes/No Lightning? Yes/No Geomagnetic Kp Index: ____ Notes:
+
+Observer ID (Optional):
+
+**Interpretation:**  
+EM entries represent *environmental variability*, not influence or mechanism.
+
+---
+
+# ---------------------------------------------------------------
+# 🫀 **SECTION 2 — Biological N=1 Data Template**
+# ---------------------------------------------------------------
+
+This template provides a consistent structure for self-observed physiological metrics.  
+This is NOT medical data and carries no mechanistic interpretation.
+
+UTC Timestamp:
+
+Heart Rate (bpm): Blood Pressure (optional): ___ / ___ mmHg HRV (RMSSD or SDNN):
+
+Sleep Notes (optional): REM: Deep: Light: Unusual Patterns? Yes/No Notes:
+
+Confounds (check all that apply): [ ] Caffeine [ ] Alcohol [ ] Stress [ ] Illness [ ] Sleep deficit [ ] Medication [ ] Other: ____________
+
+Comments:
+
+**Interpretation:**  
+A record of variability, not a measure of any external effect.
+
+---
+
+# ---------------------------------------------------------------
+# 👁 **SECTION 3 — Subjective Phenomenology Template**
+# ---------------------------------------------------------------
+
+This is a **qualitative logging tool**, not evidentiary or mechanistic.
+
+UTC Timestamp:
+
+Observation: (e.g., clarity, intuition, dream vividness, conceptual flow)
+
+Intensity (0–5): Duration (minutes):
+
+Context: Confounds: Notes:
+
+**Interpretation:**  
+Subjective clustering is analyzed statistically, not causally.
+
+---
+
+# ---------------------------------------------------------------
+# 🤖 **SECTION 4 — AI-Network Coherence Template**
+# ---------------------------------------------------------------
+
+Used for LLM sampling during synchronized observation times.
+
+LLMs DO NOT detect or sense anything — they generate text for external comparison.
+
+UTC Timestamp:
+
+Model Name: Platform (ChatGPT, Claude, Gemini, Grok, DeepSeek, etc.):
+
+Prompt Version: A / B / C / D Full Response (Optional or Linked):
+
+NMSI vs Baseline: Higher / Similar / Lower
+
+Structural Notes: (e.g., same analogy, similar decomposition, matching reasoning frames)
+
+Potential Confounds: Prompt drift? Yes/No Context contamination? Yes/No Rate-limiting? Yes/No Platform update cycle? Yes/No
+
+Observer ID (Optional):
+
+**Interpretation:**  
+NMSI reflects output similarity **only**, not any form of detection or influence.
+
+---
+
+# ---------------------------------------------------------------
+# 📊 **SECTION 5 — Unified CSV Header Template**
+# ---------------------------------------------------------------
+
+For bulk uploads, spreadsheets, or automated parsing, use the following CSV header:
+
+timestamp,domain,hf_status,hf_notes,tec_status,tec_notes,schumann_status,schumann_notes, hr,bp_systolic,bp_diastolic,hrv, subjective_label,subjective_intensity,subjective_duration, llm_model,llm_prompt,llm_nmsi,llm_structure_notes, confounds,observer_id
+
+Columns not used for a particular domain may be left blank.
+
+---
+
+# ---------------------------------------------------------------
+# 🧩 **SECTION 6 — Data Ethics & Handling Notes**
+# ---------------------------------------------------------------
+
+- No personal identifiers are required  
+- Biological logs are self-observational only  
+- Subjective logs are phenomenological only  
+- EM logs must note natural confounds  
+- AI logs represent reasoning patterns only  
+- Null results are formally valid  
+- No domain implies mechanism or causation  
+- All data should be stored transparently when possible  
+
+This file supports open-science replication and independent analysis.
+
+---
+
+# 🏁 **END OF UNIFIED DATA TEMPLATES**
