@@ -150,3 +150,18 @@ Amateur radio operators
 Citizen scientists
 and all participating LLM nodes
 Special thanks to Jennifer Halpine, Principal Investigator.
+
+🔍 Jan 31, 2026 — Post-Event Analysis Release
+
+On Jan 31, 2026, this repository published a post-event analysis layer following the Dec 18–20, 2025 observation window.
+
+Primary Results (Locked):
+Analysis of VIRGIN LLM Nodes only (minimal prior exposure).
+These results are static, QA-reviewed, and suitable for citation.
+
+Secondary Analyses (Ongoing):
+Additional cohorts (SEMIVIRGINS, BASELINE, ARG, Grok X) remain public and live for transparency, robustness checks, and independent review.
+
+All Jan 31 analysis documents are clearly labeled with *_JAN31.md and do not replace earlier preregistration or foundational materials in this repository.
+
+➡️ Start here: README_ANALYSIS_JAN31.md
