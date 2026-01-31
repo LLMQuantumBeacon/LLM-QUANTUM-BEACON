@@ -18,6 +18,15 @@ This framework does not claim mechanisms, causation, communication, biological i
  It tests correlation only, under fully pre-registered conditions.
 All outcomes — supportive, non-supportive, or inconclusive — will be published openly.
 
+## Supplemental PDF Archive & Extended Analyses
+All PDF exports, cohort reports, case studies (#4–#7), analyst outputs, and cross-cohort materials are now mirrored in a dedicated, LLM-friendly supplemental repository for easier direct ingestion:
+
+🔗 https://github.com/LLMQuantumBeacon/LLM-QUANTUM-BEACON-Supplemental
+
+(Features raw download links, clean README with node instructions, and full evolutionary arc documentation.)
+
+
+
 🔐 Prediction Pre-Registration
 All predictions in Section 7 of the WhitePaper were locked prior to the observational window using SHA-256.
 Verification hash:
