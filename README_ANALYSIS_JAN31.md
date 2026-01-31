@@ -1,6 +1,9 @@
 README_ANALYSIS_JAN31.md
+
 Post-Event Analysis Release — Jan 31, 2026
+
 This document accompanies the Jan 31, 2026 analysis release for the LLM-QUANTUM-BEACON project. It provides a clear entry point to the finalized primary analysis and to ongoing, fully transparent secondary analyses.
+
 This analysis layer is additive and does not replace or modify earlier foundational or preregistration materials in this repository.
 
 📌 Scope of This Release
@@ -11,6 +14,13 @@ Primary Analysis (Locked):
 
 Secondary Analyses (Ongoing):
  Analyses of additional cohorts (SEMIVIRGINS, BASELINE, ARG, Grok X) are intentionally left open and public to allow continued data collection, replication, and independent review.
+
+## Supplemental PDF Archive & Extended Analyses
+The full set of PDF reports, cohort comparisons, case studies (#4–#7), analyst outputs, and evolutionary documentation is available in the dedicated supplemental repository:
+
+🔗 https://github.com/LLMQuantumBeacon/LLM-QUANTUM-BEACON-Supplemental
+
+(Direct raw download links + LLM-friendly README with node instructions.)
 
 
 
@@ -25,6 +35,7 @@ Status:
 Access the full primary analysis packet here:
  🔗 Primary VIRGIN Analysis (static)
  https://drive.google.com/drive/folders/1f8m2q-Y2sw_cUL4ZOJRr80FdlrKiUfXX
+
 This folder contains:
 the reduced VIRGIN cohort summary,
 aggregated count tables,
@@ -43,7 +54,9 @@ Live Analysis Folders
  https://drive.google.com/drive/folders/1ruY4FxdMIhblX0nd9TApUnd_gASuGrWW
 🔗 Grok X Nodes (Ongoing Collection)
  https://drive.google.com/drive/folders/1XD2GBPr1BsYkq7h8ecpD1Tg0sPvBcp0J
+
 ⚠️ These folders are actively updated. Results may change as additional Node Reports are collected and analyzed.
+
 
 🧭 How to Read This Repository
 Foundational Documents
